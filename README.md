@@ -9,29 +9,9 @@ Para executar os scripts neste projeto, é necessário ter o Python instalado no
 
 pip install biopython
 
-Como Usar
-
-    Clone este repositório para o seu computador:
-
-    bash
-
-    git clone https://github.com/leonardotake/bioinfo101
-    
-    Execute os scripts Python fornecidos para gerar os arquivos FASTQ:
-    
-    python generate_fastq_files.py
-
 Os arquivos FASTQ serão gerados na pasta do projeto.
 
 Se desejar, faça alterações nos scripts ou adicione novos recursos.
-
-Quando estiver pronto, envie suas alterações de volta para o repositório no GitHub:
-
-sql
-
-    git add .
-    git commit -m "Adicionando arquivos FASTQ gerados"
-    git push
 
 Contribuição
 
