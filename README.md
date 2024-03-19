@@ -15,11 +15,11 @@ Como Usar
 
     bash
 
-git clone https://github.com/leonardotake/bioinfo101
-
-Execute os scripts Python fornecidos para gerar os arquivos FASTQ:
-
-python generate_fastq_files.py
+    git clone https://github.com/leonardotake/bioinfo101
+    
+    Execute os scripts Python fornecidos para gerar os arquivos FASTQ:
+    
+    python generate_fastq_files.py
 
 Os arquivos FASTQ serão gerados na pasta do projeto.
 
